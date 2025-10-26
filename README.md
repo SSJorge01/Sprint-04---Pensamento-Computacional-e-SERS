@@ -44,3 +44,5 @@ Já no quesito de inovação, podemos levar em conta a consulta de informações
 ## Referências do projeto (Referências e conexões com frameworks, ferramentas, linguagens e sensores utilizados)
 
 Dentre todos os componentes do projeto, os principais pontos a se destacar são o uso do Alexa Skill Kit para o desenvolvimento da skill, e o uso da linguagem de programação Python para o desenvolvimento da dashboard.
+
+Já sobre os frameworks utilizados, nós utilizamos os seguintes para a construção do dashboard: Streamlit, Pandas, Matpotlib e Numpy.

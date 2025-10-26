@@ -19,6 +19,8 @@ Já por parte da Alexa, foi desenvolvida uma skill onde, quando a mesma é acion
 
 Mais abaixo, podemos ver um diagrama completo, demonstrando todas as integrações existentes no projeto.
 
+![fluxograma](source/fluxograma.png)
+
 ## Alinhamento do projeto com o challenge GoodWe e com as disciplinas
 
 Analisando toda a proposta do projeto desenvolvido ao longo do desafio, é possível notar que o mesmo está alinhado com os itens propostos no challenge GoodWe, assim também com os conteúdos propostos nas disciplinas de Pensamento Computacional e SERS.

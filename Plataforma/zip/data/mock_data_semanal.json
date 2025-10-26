@@ -1,0 +1,3026 @@
+[
+  {
+    "data": "2025-09-01",
+    "hora": "06:00",
+    "geracao_atual_kW": 1.01,
+    "consumo_atual_kW": 1.78,
+    "geracao_acumulada_kWh": 1.01,
+    "consumo_acumulado_kWh": 1.78,
+    "excedente_kW": -0.77,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 0.99
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "07:00",
+    "geracao_atual_kW": 1.69,
+    "consumo_atual_kW": 2.76,
+    "geracao_acumulada_kWh": 2.7,
+    "consumo_acumulado_kWh": 4.54,
+    "excedente_kW": -1.07,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.34
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "08:00",
+    "geracao_atual_kW": 2.99,
+    "consumo_atual_kW": 2.41,
+    "geracao_acumulada_kWh": 5.69,
+    "consumo_acumulado_kWh": 6.95,
+    "excedente_kW": 0.58,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.14
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "09:00",
+    "geracao_atual_kW": 3.53,
+    "consumo_atual_kW": 2.03,
+    "geracao_acumulada_kWh": 9.22,
+    "consumo_acumulado_kWh": 8.98,
+    "excedente_kW": 1.5,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.23
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "10:00",
+    "geracao_atual_kW": 4.21,
+    "consumo_atual_kW": 1.32,
+    "geracao_acumulada_kWh": 13.43,
+    "consumo_acumulado_kWh": 10.3,
+    "excedente_kW": 2.89,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.41
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "11:00",
+    "geracao_atual_kW": 5.06,
+    "consumo_atual_kW": 1.42,
+    "geracao_acumulada_kWh": 18.49,
+    "consumo_acumulado_kWh": 11.72,
+    "excedente_kW": 3.64,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.26
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "12:00",
+    "geracao_atual_kW": 4.23,
+    "consumo_atual_kW": 1.36,
+    "geracao_acumulada_kWh": 22.72,
+    "consumo_acumulado_kWh": 13.08,
+    "excedente_kW": 2.87,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "13:00",
+    "geracao_atual_kW": 4.88,
+    "consumo_atual_kW": 1.28,
+    "geracao_acumulada_kWh": 27.6,
+    "consumo_acumulado_kWh": 14.36,
+    "excedente_kW": 3.6,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.22
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "14:00",
+    "geracao_atual_kW": 4.21,
+    "consumo_atual_kW": 1.25,
+    "geracao_acumulada_kWh": 31.81,
+    "consumo_acumulado_kWh": 15.61,
+    "excedente_kW": 2.96,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.23
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.26
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.17
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "15:00",
+    "geracao_atual_kW": 2.85,
+    "consumo_atual_kW": 1.53,
+    "geracao_acumulada_kWh": 34.66,
+    "consumo_acumulado_kWh": 17.14,
+    "excedente_kW": 1.32,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.3
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "16:00",
+    "geracao_atual_kW": 3.03,
+    "consumo_atual_kW": 1.97,
+    "geracao_acumulada_kWh": 37.69,
+    "consumo_acumulado_kWh": 19.11,
+    "excedente_kW": 1.06,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.21
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.12
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "17:00",
+    "geracao_atual_kW": 2.03,
+    "consumo_atual_kW": 2.75,
+    "geracao_acumulada_kWh": 39.72,
+    "consumo_acumulado_kWh": 21.86,
+    "excedente_kW": -0.72,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.23
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "18:00",
+    "geracao_atual_kW": 1.0,
+    "consumo_atual_kW": 2.48,
+    "geracao_acumulada_kWh": 40.72,
+    "consumo_acumulado_kWh": 24.34,
+    "excedente_kW": -1.48,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.29
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "19:00",
+    "geracao_atual_kW": 0.49,
+    "consumo_atual_kW": 2.8,
+    "geracao_acumulada_kWh": 41.21,
+    "consumo_acumulado_kWh": 27.14,
+    "excedente_kW": -2.31,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.3
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.75
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "20:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 2.17,
+    "geracao_acumulada_kWh": 41.21,
+    "consumo_acumulado_kWh": 29.31,
+    "excedente_kW": -2.17,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.19
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "21:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 2.06,
+    "geracao_acumulada_kWh": 41.21,
+    "consumo_acumulado_kWh": 31.37,
+    "excedente_kW": -2.06,
+    "pico_geracao_kW": 4.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.12
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "06:00",
+    "geracao_atual_kW": 1.09,
+    "consumo_atual_kW": 2.43,
+    "geracao_acumulada_kWh": 1.09,
+    "consumo_acumulado_kWh": 2.43,
+    "excedente_kW": -1.34,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.29
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.27
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "07:00",
+    "geracao_atual_kW": 2.08,
+    "consumo_atual_kW": 3.36,
+    "geracao_acumulada_kWh": 3.17,
+    "consumo_acumulado_kWh": 5.79,
+    "excedente_kW": -1.28,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.16
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.34
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.15
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.04
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "08:00",
+    "geracao_atual_kW": 2.66,
+    "consumo_atual_kW": 3.29,
+    "geracao_acumulada_kWh": 5.83,
+    "consumo_acumulado_kWh": 9.08,
+    "excedente_kW": -0.63,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.22
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "09:00",
+    "geracao_atual_kW": 4.69,
+    "consumo_atual_kW": 2.19,
+    "geracao_acumulada_kWh": 10.52,
+    "consumo_acumulado_kWh": 11.27,
+    "excedente_kW": 2.5,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.3
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.04
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "10:00",
+    "geracao_atual_kW": 5.04,
+    "consumo_atual_kW": 1.76,
+    "geracao_acumulada_kWh": 15.56,
+    "consumo_acumulado_kWh": 13.03,
+    "excedente_kW": 3.28,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.12
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.18
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.65
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "11:00",
+    "geracao_atual_kW": 6.21,
+    "consumo_atual_kW": 1.78,
+    "geracao_acumulada_kWh": 21.77,
+    "consumo_acumulado_kWh": 14.81,
+    "excedente_kW": 4.43,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "12:00",
+    "geracao_atual_kW": 5.27,
+    "consumo_atual_kW": 1.57,
+    "geracao_acumulada_kWh": 27.04,
+    "consumo_acumulado_kWh": 16.38,
+    "excedente_kW": 3.7,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.24
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "13:00",
+    "geracao_atual_kW": 5.12,
+    "consumo_atual_kW": 1.61,
+    "geracao_acumulada_kWh": 32.16,
+    "consumo_acumulado_kWh": 17.99,
+    "excedente_kW": 3.51,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.24
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.12
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.19
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.83
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "14:00",
+    "geracao_atual_kW": 5.0,
+    "consumo_atual_kW": 1.14,
+    "geracao_acumulada_kWh": 37.16,
+    "consumo_acumulado_kWh": 19.13,
+    "excedente_kW": 3.86,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "15:00",
+    "geracao_atual_kW": 3.57,
+    "consumo_atual_kW": 2.08,
+    "geracao_acumulada_kWh": 40.73,
+    "consumo_acumulado_kWh": 21.21,
+    "excedente_kW": 1.49,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.19
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.92
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "16:00",
+    "geracao_atual_kW": 2.66,
+    "consumo_atual_kW": 2.28,
+    "geracao_acumulada_kWh": 43.39,
+    "consumo_acumulado_kWh": 23.49,
+    "excedente_kW": 0.38,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.35
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.93
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "17:00",
+    "geracao_atual_kW": 1.75,
+    "consumo_atual_kW": 3.34,
+    "geracao_acumulada_kWh": 45.14,
+    "consumo_acumulado_kWh": 26.83,
+    "excedente_kW": -1.59,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.18
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.05
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "18:00",
+    "geracao_atual_kW": 1.0,
+    "consumo_atual_kW": 3.7,
+    "geracao_acumulada_kWh": 46.14,
+    "consumo_acumulado_kWh": 30.53,
+    "excedente_kW": -2.7,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.12
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "19:00",
+    "geracao_atual_kW": 0.6,
+    "consumo_atual_kW": 2.58,
+    "geracao_acumulada_kWh": 46.74,
+    "consumo_acumulado_kWh": 33.11,
+    "excedente_kW": -1.98,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.15
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.93
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "20:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 3.28,
+    "geracao_acumulada_kWh": 46.74,
+    "consumo_acumulado_kWh": 36.39,
+    "excedente_kW": -3.28,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 0.97
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.12
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "21:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 2.18,
+    "geracao_acumulada_kWh": 46.74,
+    "consumo_acumulado_kWh": 38.57,
+    "excedente_kW": -2.18,
+    "pico_geracao_kW": 5.3,
+    "pico_consumo_kW": 3.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.22
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.3
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "06:00",
+    "geracao_atual_kW": 1.07,
+    "consumo_atual_kW": 2.34,
+    "geracao_acumulada_kWh": 1.07,
+    "consumo_acumulado_kWh": 2.34,
+    "excedente_kW": -1.27,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "07:00",
+    "geracao_atual_kW": 2.22,
+    "consumo_atual_kW": 3.09,
+    "geracao_acumulada_kWh": 3.29,
+    "consumo_acumulado_kWh": 5.43,
+    "excedente_kW": -0.87,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.06
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "08:00",
+    "geracao_atual_kW": 3.3,
+    "consumo_atual_kW": 2.01,
+    "geracao_acumulada_kWh": 6.59,
+    "consumo_acumulado_kWh": 7.44,
+    "excedente_kW": 1.29,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.23
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.36
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "09:00",
+    "geracao_atual_kW": 3.23,
+    "consumo_atual_kW": 2.11,
+    "geracao_acumulada_kWh": 9.82,
+    "consumo_acumulado_kWh": 9.55,
+    "excedente_kW": 1.12,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "10:00",
+    "geracao_atual_kW": 3.56,
+    "consumo_atual_kW": 2.02,
+    "geracao_acumulada_kWh": 13.38,
+    "consumo_acumulado_kWh": 11.57,
+    "excedente_kW": 1.54,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.32
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "11:00",
+    "geracao_atual_kW": 5.12,
+    "consumo_atual_kW": 1.41,
+    "geracao_acumulada_kWh": 18.5,
+    "consumo_acumulado_kWh": 12.98,
+    "excedente_kW": 3.71,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "12:00",
+    "geracao_atual_kW": 5.67,
+    "consumo_atual_kW": 1.6,
+    "geracao_acumulada_kWh": 24.17,
+    "consumo_acumulado_kWh": 14.58,
+    "excedente_kW": 4.07,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "13:00",
+    "geracao_atual_kW": 4.03,
+    "consumo_atual_kW": 1.13,
+    "geracao_acumulada_kWh": 28.2,
+    "consumo_acumulado_kWh": 15.71,
+    "excedente_kW": 2.9,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.31
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.24
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.08
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "14:00",
+    "geracao_atual_kW": 3.49,
+    "consumo_atual_kW": 0.99,
+    "geracao_acumulada_kWh": 31.69,
+    "consumo_acumulado_kWh": 16.7,
+    "excedente_kW": 2.5,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.27
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.12
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "15:00",
+    "geracao_atual_kW": 3.08,
+    "consumo_atual_kW": 1.76,
+    "geracao_acumulada_kWh": 34.77,
+    "consumo_acumulado_kWh": 18.46,
+    "excedente_kW": 1.32,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.67
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "16:00",
+    "geracao_atual_kW": 2.82,
+    "consumo_atual_kW": 1.92,
+    "geracao_acumulada_kWh": 37.59,
+    "consumo_acumulado_kWh": 20.38,
+    "excedente_kW": 0.9,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.41
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.23
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.26
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.08
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.86
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "17:00",
+    "geracao_atual_kW": 1.85,
+    "consumo_atual_kW": 2.71,
+    "geracao_acumulada_kWh": 39.44,
+    "consumo_acumulado_kWh": 23.09,
+    "excedente_kW": -0.86,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.29
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.08
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "18:00",
+    "geracao_atual_kW": 0.78,
+    "consumo_atual_kW": 3.7,
+    "geracao_acumulada_kWh": 40.22,
+    "consumo_acumulado_kWh": 26.79,
+    "excedente_kW": -2.92,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.35
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "19:00",
+    "geracao_atual_kW": 0.56,
+    "consumo_atual_kW": 2.86,
+    "geracao_acumulada_kWh": 40.78,
+    "consumo_acumulado_kWh": 29.65,
+    "excedente_kW": -2.3,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.18
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "20:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 2.45,
+    "geracao_acumulada_kWh": 40.78,
+    "consumo_acumulado_kWh": 32.1,
+    "excedente_kW": -2.45,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.23
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.08
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "21:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 2.53,
+    "geracao_acumulada_kWh": 40.78,
+    "consumo_acumulado_kWh": 34.63,
+    "excedente_kW": -2.53,
+    "pico_geracao_kW": 4.8,
+    "pico_consumo_kW": 3.1,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.12
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "06:00",
+    "geracao_atual_kW": 1.41,
+    "consumo_atual_kW": 1.41,
+    "geracao_acumulada_kWh": 1.41,
+    "consumo_acumulado_kWh": 1.41,
+    "excedente_kW": 0.0,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.42
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.28
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "07:00",
+    "geracao_atual_kW": 2.41,
+    "consumo_atual_kW": 2.31,
+    "geracao_acumulada_kWh": 3.82,
+    "consumo_acumulado_kWh": 3.72,
+    "excedente_kW": 0.1,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.11
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "08:00",
+    "geracao_atual_kW": 3.92,
+    "consumo_atual_kW": 1.95,
+    "geracao_acumulada_kWh": 7.74,
+    "consumo_acumulado_kWh": 5.67,
+    "excedente_kW": 1.97,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.23
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "09:00",
+    "geracao_atual_kW": 4.92,
+    "consumo_atual_kW": 1.9,
+    "geracao_acumulada_kWh": 12.66,
+    "consumo_acumulado_kWh": 7.57,
+    "excedente_kW": 3.02,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.3
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.15
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "10:00",
+    "geracao_atual_kW": 5.44,
+    "consumo_atual_kW": 1.55,
+    "geracao_acumulada_kWh": 18.1,
+    "consumo_acumulado_kWh": 9.12,
+    "excedente_kW": 3.89,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.17
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.04
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.94
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "11:00",
+    "geracao_atual_kW": 5.77,
+    "consumo_atual_kW": 1.15,
+    "geracao_acumulada_kWh": 23.87,
+    "consumo_acumulado_kWh": 10.27,
+    "excedente_kW": 4.62,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.08
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.13
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.67
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "12:00",
+    "geracao_atual_kW": 5.37,
+    "consumo_atual_kW": 1.44,
+    "geracao_acumulada_kWh": 29.24,
+    "consumo_acumulado_kWh": 11.71,
+    "excedente_kW": 3.93,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "13:00",
+    "geracao_atual_kW": 5.28,
+    "consumo_atual_kW": 0.81,
+    "geracao_acumulada_kWh": 34.52,
+    "consumo_acumulado_kWh": 12.52,
+    "excedente_kW": 4.47,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "14:00",
+    "geracao_atual_kW": 5.39,
+    "consumo_atual_kW": 0.83,
+    "geracao_acumulada_kWh": 39.91,
+    "consumo_acumulado_kWh": 13.35,
+    "excedente_kW": 4.56,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.23
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.27
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.86
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "15:00",
+    "geracao_atual_kW": 4.34,
+    "consumo_atual_kW": 1.14,
+    "geracao_acumulada_kWh": 44.25,
+    "consumo_acumulado_kWh": 14.49,
+    "excedente_kW": 3.2,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.27
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.01
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "16:00",
+    "geracao_atual_kW": 4.19,
+    "consumo_atual_kW": 1.83,
+    "geracao_acumulada_kWh": 48.44,
+    "consumo_acumulado_kWh": 16.32,
+    "excedente_kW": 2.36,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.82
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "17:00",
+    "geracao_atual_kW": 2.52,
+    "consumo_atual_kW": 2.64,
+    "geracao_acumulada_kWh": 50.96,
+    "consumo_acumulado_kWh": 18.96,
+    "excedente_kW": -0.12,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.34
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.12
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "18:00",
+    "geracao_atual_kW": 1.35,
+    "consumo_atual_kW": 2.83,
+    "geracao_acumulada_kWh": 52.31,
+    "consumo_acumulado_kWh": 21.79,
+    "excedente_kW": -1.48,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.24
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.05
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "19:00",
+    "geracao_atual_kW": 0.54,
+    "consumo_atual_kW": 2.01,
+    "geracao_acumulada_kWh": 52.85,
+    "consumo_acumulado_kWh": 23.8,
+    "excedente_kW": -1.47,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.38
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.24
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "20:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 2.23,
+    "geracao_acumulada_kWh": 52.85,
+    "consumo_acumulado_kWh": 26.03,
+    "excedente_kW": -2.23,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.17
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "21:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 1.67,
+    "geracao_acumulada_kWh": 52.85,
+    "consumo_acumulado_kWh": 27.7,
+    "excedente_kW": -1.67,
+    "pico_geracao_kW": 5.9,
+    "pico_consumo_kW": 2.5,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "06:00",
+    "geracao_atual_kW": 0.89,
+    "consumo_atual_kW": 2.23,
+    "geracao_acumulada_kWh": 0.89,
+    "consumo_acumulado_kWh": 2.23,
+    "excedente_kW": -1.34,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.04
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "07:00",
+    "geracao_atual_kW": 2.15,
+    "consumo_atual_kW": 2.63,
+    "geracao_acumulada_kWh": 3.04,
+    "consumo_acumulado_kWh": 4.86,
+    "excedente_kW": -0.48,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.14
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "08:00",
+    "geracao_atual_kW": 3.23,
+    "consumo_atual_kW": 2.21,
+    "geracao_acumulada_kWh": 6.27,
+    "consumo_acumulado_kWh": 7.07,
+    "excedente_kW": 1.02,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.23
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.14
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "09:00",
+    "geracao_atual_kW": 4.36,
+    "consumo_atual_kW": 1.87,
+    "geracao_acumulada_kWh": 10.63,
+    "consumo_acumulado_kWh": 8.94,
+    "excedente_kW": 2.49,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "10:00",
+    "geracao_atual_kW": 4.62,
+    "consumo_atual_kW": 1.42,
+    "geracao_acumulada_kWh": 15.25,
+    "consumo_acumulado_kWh": 10.36,
+    "excedente_kW": 3.2,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.35
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.34
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "11:00",
+    "geracao_atual_kW": 5.16,
+    "consumo_atual_kW": 1.1,
+    "geracao_acumulada_kWh": 20.41,
+    "consumo_acumulado_kWh": 11.46,
+    "excedente_kW": 4.06,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "12:00",
+    "geracao_atual_kW": 6.03,
+    "consumo_atual_kW": 1.54,
+    "geracao_acumulada_kWh": 26.44,
+    "consumo_acumulado_kWh": 13.0,
+    "excedente_kW": 4.49,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.12
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.24
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.25
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "13:00",
+    "geracao_atual_kW": 4.27,
+    "consumo_atual_kW": 1.13,
+    "geracao_acumulada_kWh": 30.71,
+    "consumo_acumulado_kWh": 14.13,
+    "excedente_kW": 3.14,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.12
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "14:00",
+    "geracao_atual_kW": 3.98,
+    "consumo_atual_kW": 0.97,
+    "geracao_acumulada_kWh": 34.69,
+    "consumo_acumulado_kWh": 15.1,
+    "excedente_kW": 3.01,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.17
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "15:00",
+    "geracao_atual_kW": 3.4,
+    "consumo_atual_kW": 1.41,
+    "geracao_acumulada_kWh": 38.09,
+    "consumo_acumulado_kWh": 16.51,
+    "excedente_kW": 1.99,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.39
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.27
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "16:00",
+    "geracao_atual_kW": 2.67,
+    "consumo_atual_kW": 1.71,
+    "geracao_acumulada_kWh": 40.76,
+    "consumo_acumulado_kWh": 18.22,
+    "excedente_kW": 0.96,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.43
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "17:00",
+    "geracao_atual_kW": 2.12,
+    "consumo_atual_kW": 2.36,
+    "geracao_acumulada_kWh": 42.88,
+    "consumo_acumulado_kWh": 20.58,
+    "excedente_kW": -0.24,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.25
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.22
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.68
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "18:00",
+    "geracao_atual_kW": 1.09,
+    "consumo_atual_kW": 2.61,
+    "geracao_acumulada_kWh": 43.97,
+    "consumo_acumulado_kWh": 23.19,
+    "excedente_kW": -1.52,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.95
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "19:00",
+    "geracao_atual_kW": 0.56,
+    "consumo_atual_kW": 2.18,
+    "geracao_acumulada_kWh": 44.53,
+    "consumo_acumulado_kWh": 25.37,
+    "excedente_kW": -1.62,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.41
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "20:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 2.36,
+    "geracao_acumulada_kWh": 44.53,
+    "consumo_acumulado_kWh": 27.73,
+    "excedente_kW": -2.36,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.16
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.19
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.34
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "21:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 1.52,
+    "geracao_acumulada_kWh": 44.53,
+    "consumo_acumulado_kWh": 29.25,
+    "excedente_kW": -1.52,
+    "pico_geracao_kW": 5.5,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.33
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.36
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "06:00",
+    "geracao_atual_kW": 0.89,
+    "consumo_atual_kW": 1.71,
+    "geracao_acumulada_kWh": 0.89,
+    "consumo_acumulado_kWh": 1.71,
+    "excedente_kW": -0.82,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.08
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.17
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.87
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "07:00",
+    "geracao_atual_kW": 2.17,
+    "consumo_atual_kW": 2.34,
+    "geracao_acumulada_kWh": 3.06,
+    "consumo_acumulado_kWh": 4.05,
+    "excedente_kW": -0.17,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "08:00",
+    "geracao_atual_kW": 3.17,
+    "consumo_atual_kW": 2.12,
+    "geracao_acumulada_kWh": 6.23,
+    "consumo_acumulado_kWh": 6.17,
+    "excedente_kW": 1.05,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.22
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.32
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "09:00",
+    "geracao_atual_kW": 3.75,
+    "consumo_atual_kW": 1.62,
+    "geracao_acumulada_kWh": 9.98,
+    "consumo_acumulado_kWh": 7.79,
+    "excedente_kW": 2.13,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "10:00",
+    "geracao_atual_kW": 4.96,
+    "consumo_atual_kW": 1.74,
+    "geracao_acumulada_kWh": 14.94,
+    "consumo_acumulado_kWh": 9.53,
+    "excedente_kW": 3.22,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.24
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.92
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "11:00",
+    "geracao_atual_kW": 4.25,
+    "consumo_atual_kW": 1.52,
+    "geracao_acumulada_kWh": 19.19,
+    "consumo_acumulado_kWh": 11.05,
+    "excedente_kW": 2.73,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.24
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "12:00",
+    "geracao_atual_kW": 6.03,
+    "consumo_atual_kW": 1.6,
+    "geracao_acumulada_kWh": 25.22,
+    "consumo_acumulado_kWh": 12.65,
+    "excedente_kW": 4.43,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.08
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "13:00",
+    "geracao_atual_kW": 4.91,
+    "consumo_atual_kW": 1.14,
+    "geracao_acumulada_kWh": 30.13,
+    "consumo_acumulado_kWh": 13.79,
+    "excedente_kW": 3.77,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.27
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.04
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "14:00",
+    "geracao_atual_kW": 4.54,
+    "consumo_atual_kW": 1.3,
+    "geracao_acumulada_kWh": 34.67,
+    "consumo_acumulado_kWh": 15.09,
+    "excedente_kW": 3.24,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.43
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "15:00",
+    "geracao_atual_kW": 3.16,
+    "consumo_atual_kW": 1.55,
+    "geracao_acumulada_kWh": 37.83,
+    "consumo_acumulado_kWh": 16.64,
+    "excedente_kW": 1.61,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.84
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "16:00",
+    "geracao_atual_kW": 3.14,
+    "consumo_atual_kW": 2.13,
+    "geracao_acumulada_kWh": 40.97,
+    "consumo_acumulado_kWh": 18.77,
+    "excedente_kW": 1.01,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.17
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.28
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.12
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "17:00",
+    "geracao_atual_kW": 1.92,
+    "consumo_atual_kW": 2.77,
+    "geracao_acumulada_kWh": 42.89,
+    "consumo_acumulado_kWh": 21.54,
+    "excedente_kW": -0.85,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.22
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.24
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.14
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.7
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "18:00",
+    "geracao_atual_kW": 0.98,
+    "consumo_atual_kW": 2.51,
+    "geracao_acumulada_kWh": 43.87,
+    "consumo_acumulado_kWh": 24.05,
+    "excedente_kW": -1.53,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.15
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.25
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.08
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "19:00",
+    "geracao_atual_kW": 0.47,
+    "consumo_atual_kW": 2.61,
+    "geracao_acumulada_kWh": 44.34,
+    "consumo_acumulado_kWh": 26.66,
+    "excedente_kW": -2.14,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.24
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.27
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.12
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.69
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "20:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 2.39,
+    "geracao_acumulada_kWh": 44.34,
+    "consumo_acumulado_kWh": 29.05,
+    "excedente_kW": -2.39,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.19
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.29
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.04
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "21:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 1.95,
+    "geracao_acumulada_kWh": 44.34,
+    "consumo_acumulado_kWh": 31.0,
+    "excedente_kW": -1.95,
+    "pico_geracao_kW": 5.1,
+    "pico_consumo_kW": 2.8,
+    "aparelhos_bateria": [
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.12
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "06:00",
+    "geracao_atual_kW": 1.04,
+    "consumo_atual_kW": 1.61,
+    "geracao_acumulada_kWh": 1.04,
+    "consumo_acumulado_kWh": 1.61,
+    "excedente_kW": -0.57,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.15
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.08
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.04
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.08
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "07:00",
+    "geracao_atual_kW": 2.59,
+    "consumo_atual_kW": 2.81,
+    "geracao_acumulada_kWh": 3.63,
+    "consumo_acumulado_kWh": 4.42,
+    "excedente_kW": -0.22,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.19
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "08:00",
+    "geracao_atual_kW": 3.23,
+    "consumo_atual_kW": 2.52,
+    "geracao_acumulada_kWh": 6.86,
+    "consumo_acumulado_kWh": 6.94,
+    "excedente_kW": 0.71,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.17
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.33
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 1.14
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "09:00",
+    "geracao_atual_kW": 5.15,
+    "consumo_atual_kW": 1.63,
+    "geracao_acumulada_kWh": 12.01,
+    "consumo_acumulado_kWh": 8.57,
+    "excedente_kW": 3.52,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.33
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Carregar carro no horário de pico solar"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "10:00",
+    "geracao_atual_kW": 4.65,
+    "consumo_atual_kW": 1.78,
+    "geracao_acumulada_kWh": 16.66,
+    "consumo_acumulado_kWh": 10.35,
+    "excedente_kW": 2.87,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.31
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.17
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "11:00",
+    "geracao_atual_kW": 4.54,
+    "consumo_atual_kW": 1.55,
+    "geracao_acumulada_kWh": 21.2,
+    "consumo_acumulado_kWh": 11.9,
+    "excedente_kW": 2.99,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.36
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.12
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "12:00",
+    "geracao_atual_kW": 4.54,
+    "consumo_atual_kW": 1.34,
+    "geracao_acumulada_kWh": 25.74,
+    "consumo_acumulado_kWh": 13.24,
+    "excedente_kW": 3.2,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.13
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.24
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "13:00",
+    "geracao_atual_kW": 4.11,
+    "consumo_atual_kW": 0.97,
+    "geracao_acumulada_kWh": 29.85,
+    "consumo_acumulado_kWh": 14.21,
+    "excedente_kW": 3.14,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.32
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.13
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "14:00",
+    "geracao_atual_kW": 4.73,
+    "consumo_atual_kW": 1.24,
+    "geracao_acumulada_kWh": 34.58,
+    "consumo_acumulado_kWh": 15.45,
+    "excedente_kW": 3.49,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.17
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.98
+      },
+      {
+        "nome": "Máquina de Lavar",
+        "consumo_kW": 0.83
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "15:00",
+    "geracao_atual_kW": 3.92,
+    "consumo_atual_kW": 1.19,
+    "geracao_acumulada_kWh": 38.5,
+    "consumo_acumulado_kWh": 16.64,
+    "excedente_kW": 2.73,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.19
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.15
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.08
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.06
+      }
+    ],
+    "sugestao_LLM": "Usar eletrodomésticos agora"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "16:00",
+    "geracao_atual_kW": 3.06,
+    "consumo_atual_kW": 2.26,
+    "geracao_acumulada_kWh": 41.56,
+    "consumo_acumulado_kWh": 18.9,
+    "excedente_kW": 0.8,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.37
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.27
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.09
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "17:00",
+    "geracao_atual_kW": 2.69,
+    "consumo_atual_kW": 1.96,
+    "geracao_acumulada_kWh": 44.25,
+    "consumo_acumulado_kWh": 20.86,
+    "excedente_kW": 0.73,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.21
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.32
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.12
+      },
+      {
+        "nome": "Micro-ondas",
+        "consumo_kW": 0.92
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "18:00",
+    "geracao_atual_kW": 1.14,
+    "consumo_atual_kW": 2.16,
+    "geracao_acumulada_kWh": 45.39,
+    "consumo_acumulado_kWh": 23.02,
+    "excedente_kW": -1.02,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.22
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.15
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.1
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "19:00",
+    "geracao_atual_kW": 0.55,
+    "consumo_atual_kW": 2.64,
+    "geracao_acumulada_kWh": 45.94,
+    "consumo_acumulado_kWh": 25.66,
+    "excedente_kW": -2.09,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.2
+      },
+      {
+        "nome": "Televisão",
+        "consumo_kW": 0.16
+      },
+      {
+        "nome": "Iluminação",
+        "consumo_kW": 0.11
+      }
+    ],
+    "sugestao_LLM": "Evitar uso pesado neste horário"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "20:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 1.99,
+    "geracao_acumulada_kWh": 45.94,
+    "consumo_acumulado_kWh": 27.65,
+    "excedente_kW": -1.99,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.23
+      },
+      {
+        "nome": "Computador",
+        "consumo_kW": 0.32
+      },
+      {
+        "nome": "Carregador de Celular",
+        "consumo_kW": 0.05
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  },
+  {
+    "data": "2025-09-07",
+    "hora": "21:00",
+    "geracao_atual_kW": 0.0,
+    "consumo_atual_kW": 2.13,
+    "geracao_acumulada_kWh": 45.94,
+    "consumo_acumulado_kWh": 29.78,
+    "excedente_kW": -2.13,
+    "pico_geracao_kW": 5.6,
+    "pico_consumo_kW": 2.7,
+    "aparelhos_bateria": [
+      {
+        "nome": "Ar-Condicionado",
+        "consumo_kW": 1.04
+      },
+      {
+        "nome": "Geladeira",
+        "consumo_kW": 0.18
+      }
+    ],
+    "sugestao_LLM": "Consumo reduzido - horário de dormir"
+  }
+]

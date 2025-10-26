@@ -1,0 +1,80 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "ConsumoIntent",
+          "samples": [
+            "qual foi meu consumo hoje",
+            "quanto eu consumi",
+            "me diga meu consumo",
+            "como está o consumo de energia",
+            "quanta energia eu gastei hoje",
+            "qual foi o gasto de energia hoje",
+            "me diga o gasto do dia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ProducaoIntent",
+          "samples": [
+            "qual foi minha produção hoje",
+            "quanto eu produzi",
+            "me diga minha produção",
+            "como está a produção solar",
+            "quanta energia eu gerei hoje",
+            "qual foi a geração de energia hoje",
+            "me diga a geração do dia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "SaldoIntent",
+          "samples": [
+            "estou produzindo mais do que consumindo",
+            "qual é meu saldo de energia",
+            "quanto sobrou de energia",
+            "quanto faltou de energia",
+            "me diga meu saldo do dia",
+            "qual é a diferença entre produção e consumo",
+            "tive sobra de energia hoje",
+            "tive déficit de energia hoje",
+            "qual foi o balanço energético do dia",
+            "me fale o saldo energético"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MelhorHorarioIntent",
+          "samples": [
+            "qual o melhor horário para usar energia",
+            "quando é melhor usar aparelhos",
+            "quando devo ligar a máquina de lavar",
+            "qual a melhor hora para usar energia solar",
+            "quando devo ligar o ar condicionado",
+            "quando a energia solar é mais forte",
+            "em que horário tenho mais produção que consumo",
+            "quando devo gastar mais energia",
+            "qual é a hora de maior produção",
+            "qual é o horário de pico de geração solar"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "energia solar"
+    }
+  }
+}
